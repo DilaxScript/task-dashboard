@@ -1,3 +1,6 @@
+![image alt](https://github.com/DilaxScript/CodeAlpha_EcommerceStore_F/blob/d18c183a159291ae8e6faa60126540b1a19450a5/without%20login.png)
+
+
 # Taskflow — Task Management Dashboard
 
 A single-page daily task dashboard built for the Lunivo Labs Intern Software Engineer technical assessment.
